@@ -1,2 +1,3 @@
 /spring-restful.iml
 *.class
+/target/*
